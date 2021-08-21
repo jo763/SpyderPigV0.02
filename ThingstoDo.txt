@@ -1,0 +1,5 @@
+Finish IOP, Nuclear SW, IStructE (Execute JS)
+Start IET
+Refine locations and dates for numerous.
+Integrate program to update excel and not generate a new excel file
+Generate automatic email saying which  events are happening in your area/ which events are popular.
